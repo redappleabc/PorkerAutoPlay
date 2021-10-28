@@ -1,0 +1,487 @@
+{
+    "2table": {
+        "confirm_button":{
+            "x":360,
+            "y":800,
+            "width":130,
+            "height":45
+        },
+        "fantasy_confirm_button":{
+            "x":360,
+            "y":760,
+            "width":130,
+            "height":45
+        },
+        "fantasy_region":{
+            "x":0,
+            "y":925,
+            "width":540,
+            "height":35
+        },
+        "enemy_left_fantasy_region":{
+            "x":190,
+            "y":218,
+            "width":130,
+            "height":42
+        },
+        "enemy_left": {
+            "card_size": {
+                "width": 55,
+                "height": 75
+            },
+            "top1": {
+                "x": 107,
+                "y": 93
+            },
+            "top2": {
+                "x": 169,
+                "y": 93
+            },
+            "top3": {
+                "x": 230,
+                "y": 93
+            },
+            "mid1": {
+                "x": 107,
+                "y": 175
+            },
+            "mid2": {
+                "x": 169,
+                "y": 175
+            },
+            "mid3": {
+                "x": 230,
+                "y": 175
+            },
+            "mid4": {
+                "x": 290,
+                "y": 175
+            },
+            "mid5": {
+                "x": 351,
+                "y": 175
+            },
+            "bottom1": {
+                "x": 107,
+                "y": 255
+            },
+            "bottom2": {
+                "x": 169,
+                "y": 255
+            },
+            "bottom3": {
+                "x": 230,
+                "y": 255
+            },
+            "bottom4": {
+                "x": 290,
+                "y": 255
+            },
+            "bottom5": {
+                "x": 351,
+                "y": 255
+            }
+        },
+        "me": {
+            "card_size": {
+                "width": 66,
+                "height": 88,
+                "fantasy_width":60,
+                "fantasy_height":80
+            },
+            "top1": {
+                "x": 133,
+                "y": 488,
+                "fantasy_x":136 ,
+                "fantasy_y":471
+            },
+            "top2": {
+                "x": 205,
+                "y": 488,
+                "fantasy_x":202 ,
+                "fantasy_y":471
+            },
+            "top3": {
+                "x": 277,
+                "y": 488,
+                "fantasy_x":268 ,
+                "fantasy_y":471
+            },
+            "mid1": {
+                "x": 133,
+                "y": 583,
+                "fantasy_x":136 ,
+                "fantasy_y":560
+            },
+            "mid2": {
+                "x": 205,
+                "y": 583,
+                "fantasy_x":202 ,
+                "fantasy_y":560
+            },
+            "mid3": {
+                "x": 277,
+                "y": 583,
+                "fantasy_x":268 ,
+                "fantasy_y":560
+            },
+            "mid4": {
+                "x": 350,
+                "y": 583,
+                "fantasy_x":335 ,
+                "fantasy_y":560
+            },
+            "mid5": {
+                "x": 421,
+                "y": 583,
+                "fantasy_x":400 ,
+                "fantasy_y":560
+            },
+            "bottom1": {
+                "x": 133,
+                "y": 678,
+                "fantasy_x":137 ,
+                "fantasy_y":645
+            },
+            "bottom2": {
+                "x": 205,
+                "y": 678,
+                "fantasy_x":202 ,
+                "fantasy_y":645
+            },
+            "bottom3": {
+                "x": 277,
+                "y": 678,
+                "fantasy_x":268 ,
+                "fantasy_y":645
+            },
+            "bottom4": {
+                "x": 350,
+                "y": 678,
+                "fantasy_x":335 ,
+                "fantasy_y":645
+            },
+            "bottom5": {
+                "x": 421,
+                "y": 678,
+                "fantasy_x":400 ,
+                "fantasy_y":645
+            }
+        },
+        "new_card":{
+            "card_size": {
+                "width": 60,
+                "height": 80
+
+            },
+            "new1":{
+                "x":131,
+                "y":787
+            },
+            "new2":{
+                "x":198,
+                "y":787
+            },
+            "new3":{
+                "x":265,
+                "y":787
+            }
+        },
+        "thrown_card":{
+            "card_size": {
+                "width": 35,
+                "height": 50
+            },
+            "thrown_1":{
+                "x":33,
+                "y":665
+            },
+            "thrown_2":{
+                "x":72,
+                "y":665
+            },
+            "thrown3":{
+                "x":33,
+                "y":715
+            },
+            "thrown4":{
+                "x":72,
+                "y":715
+            }
+        }
+    },
+    "3table":{
+        "confirm_button":{
+            "x":360,
+            "y":800,
+            "width":130,
+            "height":45
+        },
+        "fantasy_confirm_button":{
+            "x":360,
+            "y":760,
+            "width":130,
+            "height":45
+        },
+        "fantasy_region":{
+            "x":0,
+            "y":925,
+            "width":540,
+            "height":35
+        },
+        "enemy_left_fantasy_region":{
+            "x":80,
+            "y":180,
+            "width":100,
+            "height":40
+        },
+        "enemy_right_fantasy_region":{
+            "x":335,
+            "y":180,
+            "width":100,
+            "height":40
+        },
+        "enemy_left": {
+            "card_size": {
+                "width": 45,
+                "height": 60
+            },
+            "top1": {
+                "x": 12,
+                "y": 95
+            },
+            "top2": {
+                "x": 62,
+                "y": 95
+            },
+            "top3": {
+                "x": 110,
+                "y": 95
+            },
+            "mid1": {
+                "x": 12,
+                "y": 160
+            },
+            "mid2": {
+                "x": 62,
+                "y": 160
+            },
+            "mid3": {
+                "x": 110,
+                "y": 160
+            },
+            "mid4": {
+                "x": 160,
+                "y": 160
+            },
+            "mid5": {
+                "x": 210,  
+                "y": 160
+            },
+            "bottom1": {
+                "x": 12,
+                "y": 225
+            },
+            "bottom2": {
+                "x": 62,
+                "y": 225
+            },
+            "bottom3": {
+                "x": 110,
+                "y": 225
+            },
+            "bottom4": {
+                "x": 160,
+                "y": 225
+            },
+            "bottom5": {
+                "x": 210,
+                "y": 225
+            }
+        },
+        "enemy_right": {
+            "card_size": {
+                "width": 45,
+                "height": 60
+            },
+            "top1": {
+                "x": 383,
+                "y": 95
+            },
+            "top2": {
+                "x": 433,
+                "y": 95
+            },
+            "top3": {
+                "x": 483,
+                "y": 95
+            },
+            "mid1": {
+                "x": 287,
+                "y": 160
+            },
+            "mid2": {
+                "x": 335,
+                "y": 160
+            },
+            "mid3": {
+                "x": 383,
+                "y": 160
+            },
+            "mid4": {
+                "x": 433,
+                "y": 160
+            },
+            "mid5": {
+                "x": 483,
+                "y": 160
+            },
+            "bottom1": {
+                "x": 287,
+                "y": 225
+            },
+            "bottom2": {
+                "x": 335,
+                "y": 225
+            },
+            "bottom3": {
+                "x": 383,
+                "y": 225
+            },
+            "bottom4": {
+                "x": 433,
+                "y": 225
+            },
+            "bottom5": {
+                "x": 483,
+                "y": 225
+            }
+        },
+        "me": {
+            "card_size": {
+                "width": 66,
+                "height": 88,
+                "fantasy_width":60,
+                "fantasy_height":80
+            },
+            "top1": {
+                "x": 132,
+                "y": 488,
+                "fantasy_x":134,
+                "fantasy_y":471
+            },
+            "top2": {
+                "x": 203,
+                "y": 488,
+                "fantasy_x":200,
+                "fantasy_y":471
+            },
+            "top3": {
+                "x": 277,
+                "y": 488,
+                "fantasy_x":266,
+                "fantasy_y":471
+            },
+            "mid1": {
+                "x": 132,
+                "y": 583,
+                "fantasy_x":134,
+                "fantasy_y":560
+            },
+            "mid2": {
+                "x": 204,
+                "y": 583,
+                "fantasy_x":200,
+                "fantasy_y":560
+            },
+            "mid3": {
+                "x": 277,
+                "y": 583,
+                "fantasy_x":266,
+                "fantasy_y":560
+            },
+            "mid4": {
+                "x": 348,
+                "y": 583,
+                "fantasy_x":333,
+                "fantasy_y":560
+            },
+            "mid5": {
+                "x": 420,
+                "y": 583,
+                "fantasy_x":400,
+                "fantasy_y":560
+            },
+            "bottom1": {
+                "x": 132,
+                "y": 678,
+                "fantasy_x":134,
+                "fantasy_y":646
+            },
+            "bottom2": {
+                "x": 204,
+                "y": 678,
+                "fantasy_x":200,
+                "fantasy_y":646
+            },
+            "bottom3": {
+                "x": 277,
+                "y": 678,
+                "fantasy_x":266,
+                "fantasy_y":646
+            },
+            "bottom4": {
+                "x": 348,
+                "y": 678,
+                "fantasy_x":333,
+                "fantasy_y":646
+            },
+            "bottom5": {
+                "x": 420,
+                "y": 678,
+                "fantasy_x":400,
+                "fantasy_y":646
+            }
+        },
+        "new_card":{
+            "card_size": {
+                "width": 60,
+                "height": 80
+            },
+            "new1":{
+                "x":131,
+                "y":788
+            },
+            "new2":{
+                "x":198,
+                "y":788
+            },
+            "new3":{
+                "x":263,
+                "y":788
+            }
+        },
+        "thrown_card":{
+            "card_size": {
+                "width": 35,
+                "height": 50
+            },
+            "thrown_1":{
+                "x":33,
+                "y":665
+            },
+            "thrown_2":{
+                "x":72,
+                "y":665
+            },
+            "thrown3":{
+                "x":33,
+                "y":715
+            },
+            "thrown4":{
+                "x":72,
+                "y":715
+            }
+        }
+    }
+}
